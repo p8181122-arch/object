@@ -27,6 +27,7 @@
 即時更新並顯示玩家及莊家手牌狀態，並在局末準確判定輸贏。
 # 六、程式介紹：
 <img width="319" height="283" alt="image" src="https://github.com/user-attachments/assets/9ad53111-781d-4cb4-9fca-db169fa94dcb" />
+
 ### 類別：
 定義卡牌Card這個物件。
 ### 封裝：
