@@ -83,6 +83,7 @@ public：允許外部「建構」、「洗牌」、「發牌」。
 private：將玩家目前持有的「手牌」保護起來，外部無法直接塞牌或換牌，
 
 public：允許外部「拿牌」、「計算目前分數」、「秀出所有手牌」
+
 <img width="416" height="678" alt="image" src="https://github.com/user-attachments/assets/9ace750b-c4fd-45dc-bbf7-ba7516b82902" />
 
 ### 拿牌：
