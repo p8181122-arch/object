@@ -26,7 +26,7 @@
 ### 狀態與結果顯示：
 即時更新並顯示玩家及莊家手牌狀態，並在局末準確判定輸贏。
 # 六、程式介紹：
-## Card
+## Card :
 <img width="356" height="226" alt="image" src="https://github.com/user-attachments/assets/110d52c6-c0f4-4b9e-957b-a6da77620a4e" />
 
 
