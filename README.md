@@ -144,6 +144,8 @@ g++ main.cpp Card.cpp Deck.cpp Player.cpp -std=c++11 -o game.exe
 *(註：在 PowerShell 環境下，系統規定執行當前目錄底下的程式時，前面必須明確加上 `.\` 符號。)*
 
 # 九、運行畫面截圖：
+<img width="1789" height="764" alt="image" src="https://github.com/user-attachments/assets/85bb7952-c4da-47f0-885d-2e2c036e972d" />
+
 # 十、UML圖片：
 <img width="769" height="528" alt="image" src="https://github.com/user-attachments/assets/e9cf77bb-dfe6-45fa-95e5-ef652cd27550" />
 
